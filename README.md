@@ -5,8 +5,8 @@
 ## 🌱 Skills
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,sass,js,ts,react,next,figma,supabase" />
 
-## 📕 Studying
-<img alt="my studying" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,php,laravel" />
+## 📕 Learning
+<img alt="my learning" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,php,laravel" />
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
