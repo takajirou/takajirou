@@ -10,7 +10,7 @@
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=10&i=html,css,sass,js,ts,react,next,php,laravel,ruby,supabase,mysql,figma" />
 
 ## 📕 Learning
-<img alt="my learning" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,rails,nodejs,swift,go" />
+<img alt="my learning" src="https://skillicons.dev/icons?theme=dark&perline=7&i=docker,rails,swift,go" />
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
